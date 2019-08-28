@@ -1,0 +1,16 @@
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\EmployeesTests.dll
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\EmployeesTests.pdb
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\Employee.dll
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\Employee.pdb
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Abby\source\repos\Employee\EmployeesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Abby\source\repos\Employee\EmployeesTests\obj\Debug\EmployeesTests.csprojAssemblyReference.cache
+C:\Users\Abby\source\repos\Employee\EmployeesTests\obj\Debug\EmployeesTests.csproj.CoreCompileInputs.cache
+C:\Users\Abby\source\repos\Employee\EmployeesTests\obj\Debug\EmployeesTests.csproj.CopyComplete
+C:\Users\Abby\source\repos\Employee\EmployeesTests\obj\Debug\EmployeesTests.dll
+C:\Users\Abby\source\repos\Employee\EmployeesTests\obj\Debug\EmployeesTests.pdb
